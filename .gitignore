@@ -1,4 +1,4 @@
-#Ignore data files
+# Ignore data files
 *.csv
 *.xlsx
 *.json
